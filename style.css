@@ -46,7 +46,7 @@ background-color: #06090f;
 }
 
 header{
-  background-image: url('../pics/headerbg.jpg') ;
+  background-image: url('headerbg.jpg') ;
   background-position: center left;
   background-repeat: no-repeat;
   background-attachment: fixed;
