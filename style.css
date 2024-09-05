@@ -687,6 +687,10 @@ padding: 50px 0;
   .section_size{
     padding: 250px 0;
   }
+	.menu{
+    display: flex !important;
+  }
+
   .invis{
     display: none !important;
   }
