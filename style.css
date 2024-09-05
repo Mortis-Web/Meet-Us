@@ -707,10 +707,10 @@ padding: 50px 0;
 
 @media (max-height:768px) {
   header{ 
-  height: 925px;
+  height: 800px;
 }
 .overlay{
-  height: 925px;
+  height: 800px;
 }
 } 
 @media (max-height:600px){
