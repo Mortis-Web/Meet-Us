@@ -85,6 +85,10 @@ filter:brightness(1);
   align-items: center;
   color: white;
 }
+.navbar .menu{
+  display: none;
+}
+
 .navbar .name{
   font-size: 18px;
   color:#3586ff;
@@ -101,6 +105,7 @@ filter:brightness(1);
   display: inline-block;
 letter-spacing: 3px;
 font-weight: lighter;
+	text-transform: uppercase;
 }
 .main_content{
   display: flex;
