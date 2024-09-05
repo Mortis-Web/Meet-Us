@@ -110,7 +110,7 @@ function getRandomInt( $n )
 function toggleVisibility() {
     var element = document.getElementById("myElement");
     if (element.style.display === "none") {
-        element.style.display = "block";
+        element.style.display = "flex";
     } else {
         element.style.display = "none";
     }
