@@ -36,14 +36,16 @@ body
 	font-family: 'quicksandlight', Helvetica, Arial;
     filter: dropshadow(color=#000000, offx=1, offy=1);
 overflow-x: hidden;
+	max-width: 100vw;
 background-color: #06090f;
   }
 
 
 .section_size{
-  height: 100%;
-  overflow-x:hidden;
+	height: 100%;
   padding: 100px 0;
+  overflow-x:hidden;
+
 }
 
 header{
