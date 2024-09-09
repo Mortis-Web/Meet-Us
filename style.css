@@ -674,7 +674,7 @@ a:hover
     align-items: center;
   }
   .main_content .header_intro h1{
-    width: 100%;
+    width: 105%;
   }
   .description{
     justify-content: center;
@@ -754,25 +754,34 @@ padding: 50px 0;
 .header_vid{
   scale: 0.6;
 }
-  .desc_intro{
-  scale: 0.8;
-  width: 100%;
+	
+.desc_intro{
+scale: 0.8;
+width: 100%;
 }
-	header h1{
-  text-transform: none !important;
-  font-size: 35px !important;
+	
+header h1{
+text-transform: none !important;
+font-size: 35px !important;
 }
+	
 .vis{
 scale:0.8;
 right:0 !important;
 top:-110% !important;	
 }
+	
 .description{
 width:95% !important;
 padding:0 !important
-	}
+}
+	
+.header_content {
+padding:15px !important;
+}
 	
 .header_statis{
 gap:30px !important;
 }
+	
 }
