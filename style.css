@@ -733,7 +733,7 @@ padding: 50px 0;
   }
 }
 
-@media (max-height:768px) {
+@media (max-height:800px) {
   header{ 
   height: 800px;
 }
@@ -756,10 +756,23 @@ padding: 50px 0;
 }
   .desc_intro{
   scale: 0.8;
+  width: 100%;
 }
 	header h1{
   text-transform: none !important;
   font-size: 35px !important;
 }
-
+.vis{
+scale:0.8;
+right:0 !important;
+top:-110% !important;	
+}
+.description{
+width:95% !important;
+padding:0 !important
+	}
+	
+.header_statis{
+gap:30px !important;
+}
 }
