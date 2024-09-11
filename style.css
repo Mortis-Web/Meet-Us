@@ -642,7 +642,7 @@ a:hover
 @media (max-width:1170px){
 
 .logo{
-  scale: 0.6;
+  scale: 0.65;
   left:-4%;
 }
 
@@ -681,7 +681,7 @@ a:hover
 padding: 50px 0;
   }
   .logo{
-    bottom: 75%;
+    bottom: 76%;
     left: inherit;
   }
   .desc_intro{
@@ -694,7 +694,7 @@ padding: 50px 0;
     left: 33.33%;
   }
   .section_size{
-    padding: 250px 0;
+    padding: 250px 0 70px 0;
   }
 	.menu{
     display: flex !important;
