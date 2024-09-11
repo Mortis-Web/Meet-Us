@@ -735,10 +735,10 @@ padding: 50px 0;
 
 @media (max-height:800px) {
   header{ 
-  height: 800px;
+  height: 900px;
 }
 .overlay{
-  height: 800px;
+  height: 900px;
 }
 } 
 @media (max-height:600px){
@@ -751,6 +751,12 @@ padding: 50px 0;
   }
 }
 @media (max-width:460px){
+header{ 
+  height: 700px;
+}
+.overlay{
+  height: 700px;
+}
 .header_vid{
   scale: 0.6;
 }
