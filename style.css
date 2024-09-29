@@ -539,9 +539,11 @@ border-radius: 50%;
 
 @keyframes vismenu{
   0%{
-margin-top: -100px;
-border-radius: 50%;
-  }
+ margin-top: -100px;
+ border-radius: 50%;
+ opacity: 0;
+scale: 0.5;
+ }
 }
   
 
@@ -712,7 +714,7 @@ padding: 50px 0;
     top: 100%;
     justify-content: center;
     align-items: center;
-    animation: vismenu  0.3s  linear;
+    animation: vismenu  0.4s  linear;
   }
 	.vis ul{
     display: flex;
