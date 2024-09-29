@@ -791,5 +791,10 @@ padding:15px !important;
 .header_statis{
 gap:30px !important;
 }
-	
+.main_content .header_vid img {
+top:-100px;
 }
+.header_outro .social{
+font-size:10px !important;
+}
+ }
