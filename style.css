@@ -649,6 +649,9 @@ a:hover
   scale: 0.65;
   left:-4%;
 }
+#carouselContainer{
+	prespective:2000px;
+}
 
 }
 
