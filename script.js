@@ -47,7 +47,7 @@ function init()
     radius = Math.round( (300) / Math.tan( Math.PI / itemLength ) );
     
     // set container 3d props
-    TweenMax.set(container, {perspective:1750})
+    // TweenMax.set(container, {perspective:1750})
     TweenMax.set(carousel, {z:-(radius)})
     
     // create carousel item props
